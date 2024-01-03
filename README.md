@@ -15,9 +15,9 @@ https://github.com/Setsu-Adachi/5day-weather-forecast-dashboard
 https://setsu-adachi.github.io/5day-weather-forecast-dashboard/
 
 ## Acknowledgement
-I have referred to a coding boot camp on how to work with the OpenWeather API. 
-[Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys).
-
+I have referred to a coding boot camp and Devression tutorial on how to work with the OpenWeather API. 
+[Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys),
+[Build a Simple Weather App](https://www.youtube.com/playlist?list=PL7xMD2CrkhbLNspprTyKVtM94rMjzQBuo).
 
   ## License
 Distributed under the MIT License, See LICENSE.txt for more info
